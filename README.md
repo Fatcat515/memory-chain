@@ -171,6 +171,14 @@ $DSH_HOME/sessions/<工作区目录名>/<会话id>/session.v4.jsonl.zstd
 
 ---
 
+---
+## 彩蛋（纪念下v1.0.0期间因偷懒甩整包被鲸鱼娘数落）
+
+<img width="720" height="720" alt="dont-ship-the-zip" src="https://github.com/user-attachments/assets/a4651312-6c6a-42a2-9804-d6c291699232" />
+
+
+---
+
 ## 许可
 
 MIT。见 [LICENSE](LICENSE)。
